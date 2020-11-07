@@ -7,4 +7,4 @@ Aramco Upstream Solutions Technathon 2020
 
         Karandashov Dmitriy
 
-        Kharitonov Nikolay
+        Kharitonov  Nikolay
